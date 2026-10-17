@@ -24,7 +24,7 @@ if not BOT_TOKEN:
     )
 
 FEE_RATE = 10.0
-EXCHANGE_RATE = 62.0
+EXCHANGE_RATE = 63.3
 
 
 # ============================================================
