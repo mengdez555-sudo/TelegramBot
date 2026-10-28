@@ -23,8 +23,8 @@ if not BOT_TOKEN:
         "BOT_TOKEN is not set. Add BOT_TOKEN in Railway Variables."
     )
 
-FEE_RATE = 10.0
-EXCHANGE_RATE = 63.3
+FEE_RATE = 15.0
+EXCHANGE_RATE = 64.7
 
 
 # ============================================================
